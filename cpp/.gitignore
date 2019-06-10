@@ -1,0 +1,8 @@
+# build system
+cmake-build*
+build
+
+# ide
+.idea/
+.swp
+
